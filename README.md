@@ -10,7 +10,7 @@ To use this package, you can install it via npm. Open your terminal and run the 
 npm install @greycode/env_init
 ```
 ## Usage
-Once the package is installed, you can execute the env-init command to create environment variables. Follow the steps below:
+Once the package is installed, you can execute the `env-init` command to create environment variables. Follow the steps below:
 
 ### Open your terminal.
 

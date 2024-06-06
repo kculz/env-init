@@ -1,6 +1,6 @@
 {
   "name": "@greycode/env_init",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "This package is for creating env variables",
   "main": "index.js",
   "bin": {
@@ -10,10 +10,19 @@
     "postinstall": "node index.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Kudzai Munyama",
+  "license": "MIT",
   "dependencies": {
     "fs": "^0.0.1-security",
     "readline": "^1.3.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kculz/env-init.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kculz/env-init/issues"
+  },
+  "homepage": "https://github.com/kculz/env-init#readme"
 }
